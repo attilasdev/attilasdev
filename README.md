@@ -1,8 +1,8 @@
 # Hi there, I'm Attila 👋
 
-## Senior SDET → Backend Developer
+## 🚀 Senior SDET → Backend Developer | SRE
 
-**10+ years** of experience in software testing, automation, and system engineering, now transitioning to **backend development** and **DevOps engineering**. I build reliable, well-tested systems and tools that solve real problems.
+**10+ years** of experience in software testing, automation, and system engineering, now transitioning to **backend development**, **SRE**, and **infrastructure engineering**. I build reliable, well-tested systems and tools that solve real problems.
 
 Based in **Budapest, Hungary** 🇭🇺
 
